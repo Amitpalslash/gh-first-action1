@@ -11,6 +11,6 @@ jobs:
       - name: Print goodbye 3
         run: |
             echo "hello suapoka"
-            echo "hello potri poka2"
+            echo "hello potri poka222"
      
      
