@@ -8,4 +8,9 @@ jobs:
         run: echo "hello world"
       - name: Print goodbye
         run: echo "Good bye"
+      - name: Print goodbye 3
+        run: |
+            echo "hello suapoka"
+            echo "hello potri poka"
+     
      
